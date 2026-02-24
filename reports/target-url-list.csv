@@ -1,5 +1,5 @@
 question,answer
-How many target urls are in the list?,31610
+How many target urls are in the list?,31604
 How many unique base domains are in the list?,1414
 How many unique agencies are in the list?,145
 How many unique bureaus are in the list?,415
@@ -7,4 +7,4 @@ How many urls are sourced from the list of federal domains?,1195
 How many urls are sourced from pulse?,19593
 How many urls are sourced from DAP?,6259
 How many urls are sourced from the other websites list?,7933
-How many blank cells are there in the target URL list?,50960
+How many blank cells are there in the target URL list?,50962
