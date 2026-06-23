@@ -1,6 +1,6 @@
 Agency,Number of Websites,Number of Websites with DAP,Percent with DAP,Number of Websites with USWDS Semantic Version,Percent of Websites with USWDS Semantic Version
 .gov Administration,4,1,25.0,0,0.0
-Access Board,4,2,50.0,0,0.0
+Access Board,3,2,66.67,0,0.0
 Adams Memorial Commission,1,0,0.0,0,0.0
 Administrative Conference of the United States,3,0,0.0,0,0.0
 Administrative Office of the United States Courts,97,5,5.15,2,2.06
@@ -17,37 +17,37 @@ Chemical Safety and Hazard Investigation Board,1,0,0.0,0,0.0
 Civil Rights Cold Case Records Review Board,1,1,100.0,0,0.0
 Commodity Futures Trading Commission,10,5,50.0,0,0.0
 Congressional Budget Office,2,0,0.0,0,0.0
-Consumer Financial Protection Bureau,20,6,30.0,0,0.0
+Consumer Financial Protection Bureau,13,6,46.15,0,0.0
 Consumer Product Safety Commission,10,2,20.0,1,10.0
 Corporation for National and Community Service,20,4,20.0,0,0.0
-Council of the Inspectors General on Integrity and Efficiency,10,2,20.0,3,30.0
+Council of the Inspectors General on Integrity and Efficiency,10,1,10.0,2,20.0
 Court Services and Offender Supervision Agency for the District of Columbia,3,0,0.0,0,0.0
 Delta Regional Authority,1,0,0.0,0,0.0
 Denali Commission,3,1,33.33,0,0.0
-Department of Agriculture,328,59,17.99,25,7.62
-Department of Commerce,954,433,45.39,68,7.13
-Department of Defense,1037,77,7.43,15,1.45
-Department of Education,137,37,27.01,1,0.73
-Department of Energy,2271,499,21.97,25,1.1
-Department of Health and Human Services,2679,765,28.56,97,3.62
-Department of Homeland Security,437,120,27.46,20,4.58
-Department of Housing and Urban Development,63,9,14.29,1,1.59
-Department of Justice,382,133,34.82,100,26.18
-Department of Labor,261,164,62.84,19,7.28
-Department of State,357,239,66.95,5,1.4
-Department of Transportation,353,15,4.25,8,2.27
-Department of Veterans Affairs,430,96,22.33,5,1.16
-Department of the Interior,491,133,27.09,35,7.13
-Department of the Treasury,306,80,26.14,16,5.23
+Department of Agriculture,326,58,17.79,23,7.06
+Department of Commerce,937,418,44.61,67,7.15
+Department of Defense,1019,76,7.46,15,1.47
+Department of Education,139,35,25.18,1,0.72
+Department of Energy,2277,498,21.87,27,1.19
+Department of Health and Human Services,2660,767,28.83,100,3.76
+Department of Homeland Security,437,119,27.23,22,5.03
+Department of Housing and Urban Development,65,9,13.85,1,1.54
+Department of Justice,440,195,44.32,160,36.36
+Department of Labor,263,155,58.94,18,6.84
+Department of State,355,238,67.04,5,1.41
+Department of Transportation,353,15,4.25,7,1.98
+Department of Veterans Affairs,428,95,22.2,6,1.4
+Department of the Interior,495,127,25.66,34,6.87
+Department of the Treasury,305,78,25.57,15,4.92
 Election Assistance Commission,4,2,50.0,1,25.0
-Environmental Protection Agency,201,96,47.76,11,5.47
+Environmental Protection Agency,193,96,49.74,9,4.66
 Equal Employment Opportunity Commission,14,4,28.57,1,7.14
-Executive Office of the President,88,5,5.68,4,4.55
+Executive Office of the President,88,6,6.82,5,5.68
 Export-Import Bank of the United States,13,0,0.0,0,0.0
 Farm Credit Administration,3,1,33.33,1,33.33
 Farm Credit System Insurance Corporation,1,1,100.0,1,100.0
 Federal Communications Commission,49,1,2.04,0,0.0
-Federal Deposit Insurance Corporation,100,23,23.0,20,20.0
+Federal Deposit Insurance Corporation,100,19,19.0,15,15.0
 Federal Election Commission,13,5,38.46,0,0.0
 Federal Energy Regulatory Commission,21,7,33.33,0,0.0
 Federal Housing Finance Agency,15,2,13.33,0,0.0
@@ -58,8 +58,8 @@ Federal Mediation and Conciliation Service,1,0,0.0,0,0.0
 Federal Mine Safety and Health Review Commission,1,1,100.0,0,0.0
 Federal Permitting Improvement Council,1,1,100.0,0,0.0
 Federal Retirement Thrift Investment Board,11,3,27.27,2,18.18
-Federal Trade Commission,37,9,24.32,0,0.0
-General Services Administration,469,194,41.45,70,14.93
+Federal Trade Commission,38,9,23.68,0,0.0
+General Services Administration,468,193,41.33,68,14.53
 Government Accountability Office,12,0,0.0,0,0.0
 Government Publishing Office,23,0,0.0,0,0.0
 Gulf Coast Ecosystem Restoration Council,2,1,50.0,0,0.0
@@ -77,29 +77,29 @@ Medicare Payment Advisory Commission,2,0,0.0,0,0.0
 Merit Systems Protection Board,4,1,25.0,1,25.0
 Millennium Challenge Corporation,7,2,28.57,1,14.29
 Morris K. Udall and Stewart L. Udall Foundation,8,3,37.5,0,0.0
-National Aeronautics and Space Administration,1202,477,39.68,19,1.58
-National Archives and Records Administration,115,63,54.78,1,0.87
+National Aeronautics and Space Administration,1210,476,39.34,20,1.65
+National Archives and Records Administration,115,65,56.52,1,0.87
 National Capital Planning Commission,9,1,11.11,0,0.0
 National Council on Disability,2,1,50.0,0,0.0
-National Credit Union Administration,21,12,57.14,0,0.0
+National Credit Union Administration,20,12,60.0,0,0.0
 National Endowment for the Arts,5,1,20.0,0,0.0
 National Endowment for the Humanities,4,1,25.0,0,0.0
-National Gallery of Art,14,0,0.0,0,0.0
+National Gallery of Art,13,0,0.0,0,0.0
 National Labor Relations Board,2,2,100.0,0,0.0
 National Mediation Board,4,2,50.0,0,0.0
 "National Railroad Passenger Corporation, Office of Inspector General",1,0,0.0,0,0.0
 National Science Foundation,33,12,36.36,1,3.03
 National Transportation Safety Board,4,1,25.0,0,0.0
 Northern Border Regional Commission,1,1,100.0,0,0.0
-Nuclear Regulatory Commission,30,4,13.33,0,0.0
+Nuclear Regulatory Commission,29,4,13.79,0,0.0
 Occupational Safety and Health Review Commission,1,1,100.0,0,0.0
 Office of Congressional Workplace Rights,1,0,0.0,0,0.0
 Office of Government Ethics,6,2,33.33,2,33.33
-Office of Personnel Management,525,264,50.29,10,1.9
+Office of Personnel Management,524,262,50.0,10,1.91
 Office of Special Counsel,3,1,33.33,0,0.0
 Office of the Director of National Intelligence,51,0,0.0,0,0.0
 Open World Leadership Center,1,0,0.0,0,0.0
-Peace Corps,59,0,0.0,0,0.0
+Peace Corps,60,0,0.0,0,0.0
 Pension Benefit Guaranty Corporation,7,1,14.29,0,0.0
 Postal Regulatory Commission,1,1,100.0,0,0.0
 Presidio Trust,3,0,0.0,0,0.0
@@ -108,9 +108,9 @@ Public Buildings Reform Board,1,1,100.0,0,0.0
 Railroad Retirement Board,2,1,50.0,0,0.0
 Securities and Exchange Commission,16,0,0.0,1,6.25
 Selective Service System,5,0,0.0,0,0.0
-Small Business Administration,44,14,31.82,5,11.36
+Small Business Administration,43,14,32.56,5,11.63
 Smithsonian Institution,4,1,25.0,0,0.0
-Social Security Administration,17,7,41.18,0,0.0
+Social Security Administration,16,7,43.75,0,0.0
 Social Security Advisory Board,1,1,100.0,0,0.0
 Southeast Crescent Regional Commission,1,0,0.0,0,0.0
 Southwest Border Regional Commission,1,0,0.0,0,0.0
@@ -118,7 +118,7 @@ State Justice Institute,2,0,0.0,0,0.0
 Stennis Center for Public Service,1,0,0.0,0,0.0
 Supreme Court of the United States,2,0,0.0,0,0.0
 Surface Transportation Board,2,1,50.0,1,50.0
-Tennessee Valley Authority,19,1,5.26,0,0.0
+Tennessee Valley Authority,18,2,11.11,0,0.0
 Trade And Development Agency,1,0,0.0,1,100.0
 U.S. Commission for the Preservation of Americas Heritage Abroad,2,0,0.0,0,0.0
 U.S. Commission of Fine Arts,1,0,0.0,0,0.0
@@ -133,8 +133,8 @@ United States African Development Foundation,3,0,0.0,0,0.0
 United States Agency for Global Media,12,1,8.33,0,0.0
 United States House of Representatives,481,0,0.0,0,0.0
 United States International Development Finance Corporation,3,2,66.67,0,0.0
-United States Postal Service,40,1,2.5,0,0.0
-United States Senate,143,0,0.0,0,0.0
+United States Postal Service,43,1,2.33,0,0.0
+United States Senate,144,0,0.0,0,0.0
 United States Sentencing Commission,2,0,0.0,0,0.0
 United States Tax Court,1,0,0.0,1,100.0
-Total,14852,4139,27.87,605,4.07
+Total,14855,4158,27.99,658,4.43
